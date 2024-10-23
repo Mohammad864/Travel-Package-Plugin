@@ -6,8 +6,6 @@
 **Tested up to:** 6.2  
 **Requires PHP:** 7.0  
 **Stable tag:** 2.6  
-**License:** GPLv2 or later  
-**License URI:** [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Description
 
