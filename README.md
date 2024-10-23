@@ -1,6 +1,6 @@
 # Travel Packages Plugin
 
-**Contributors:** Your Name  
+**Contributors:** Mohammad Taghipoor  
 **Tags:** travel, packages, booking, custom post type, taxonomy, AJAX, WordPress  
 **Requires at least:** 5.0  
 **Tested up to:** 6.2  
